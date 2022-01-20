@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "419240158144",
+    "firebase_url": "https://petshop-petvaloes.firebaseio.com",
+    "project_id": "petshop-petvaloes",
+    "storage_bucket": "petshop-petvaloes.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:419240158144:android:5ec59dca9508c64f4c5e25",
+        "android_client_info": {
+          "package_name": "com.valoes.petvaloes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "419240158144-u0anqn5g51rj7peciicjjpa9sf3cn63q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.valoes.petvaloes",
+            "certificate_hash": "1184bc487dc85103dc39bfc5e63ef94cbe2a8435"
+          }
+        },
+        {
+          "client_id": "419240158144-1fjg6uhtinigjk412jdvlanhcve6r3lc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhFdmrRoE1kKH5MKPbosWLovqQ5s3hIQY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "419240158144-1fjg6uhtinigjk412jdvlanhcve6r3lc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
